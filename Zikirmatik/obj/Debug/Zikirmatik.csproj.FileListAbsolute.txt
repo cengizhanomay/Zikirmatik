@@ -1,0 +1,27 @@
+C:\Users\CenRümOm\Desktop\Zikirmatik\Zikirmatik\bin\Debug\Zikirmatik.exe.config
+C:\Users\CenRümOm\Desktop\Zikirmatik\Zikirmatik\bin\Debug\Zikirmatik.exe
+C:\Users\CenRümOm\Desktop\Zikirmatik\Zikirmatik\bin\Debug\Zikirmatik.pdb
+C:\Users\CenRümOm\Desktop\Zikirmatik\Zikirmatik\obj\Debug\Zikirmatik.csprojResolveAssemblyReference.cache
+C:\Users\CenRümOm\Desktop\Zikirmatik\Zikirmatik\obj\Debug\Zikirmatik.Form1.resources
+C:\Users\CenRümOm\Desktop\Zikirmatik\Zikirmatik\obj\Debug\Zikirmatik.Properties.Resources.resources
+C:\Users\CenRümOm\Desktop\Zikirmatik\Zikirmatik\obj\Debug\Zikirmatik.csproj.GenerateResource.Cache
+C:\Users\CenRümOm\Desktop\Zikirmatik\Zikirmatik\obj\Debug\Zikirmatik.exe
+C:\Users\CenRümOm\Desktop\Zikirmatik\Zikirmatik\obj\Debug\Zikirmatik.pdb
+C:\Users\CenRümOm\Desktop\Zikirmatik\Zikirmatik\obj\Debug\Zikirmatik.Form2.resources
+C:\Users\CenRümOm\Desktop\Zikirmatik\Zikirmatik\obj\Debug\Zikirmatik.Form3.resources
+C:\Users\CenRümOm\Desktop\Zikirmatik\Zikirmatik\obj\Debug\Zikirmatik.Form4.resources
+C:\Users\CenRümOm\Desktop\Yeni klasör\Zikirmatik\Zikirmatik\bin\Debug\Zikirmatik.exe.config
+C:\Users\CenRümOm\Desktop\Yeni klasör\Zikirmatik\Zikirmatik\obj\Debug\Zikirmatik.exe
+C:\Users\CenRümOm\Desktop\Yeni klasör\Zikirmatik\Zikirmatik\obj\Debug\Zikirmatik.pdb
+C:\Users\CenRümOm\Desktop\Yeni klasör\Zikirmatik\Zikirmatik\bin\Debug\Zikirmatik.exe
+C:\Users\CenRümOm\Desktop\Yeni klasör\Zikirmatik\Zikirmatik\bin\Debug\Zikirmatik.pdb
+C:\Users\CenRümOm\Desktop\Yeni klasör\Zikirmatik\Zikirmatik\obj\Debug\Zikirmatik.csprojResolveAssemblyReference.cache
+C:\Users\CenRümOm\Desktop\Yeni klasör\Zikirmatik\Zikirmatik\obj\Debug\Zikirmatik.Form1.resources
+C:\Users\CenRümOm\Desktop\Yeni klasör\Zikirmatik\Zikirmatik\obj\Debug\Zikirmatik.Form2.resources
+C:\Users\CenRümOm\Desktop\Yeni klasör\Zikirmatik\Zikirmatik\obj\Debug\Zikirmatik.Form3.resources
+C:\Users\CenRümOm\Desktop\Yeni klasör\Zikirmatik\Zikirmatik\obj\Debug\Zikirmatik.Form4.resources
+C:\Users\CenRümOm\Desktop\Yeni klasör\Zikirmatik\Zikirmatik\obj\Debug\Zikirmatik.Properties.Resources.resources
+C:\Users\CenRümOm\Desktop\Yeni klasör\Zikirmatik\Zikirmatik\obj\Debug\Zikirmatik.csproj.GenerateResource.Cache
+C:\Kişisel Dosyalar\C# Çalışmalar\Yeni klasör\Zikirmatik\Zikirmatik\bin\Debug\Zikirmatik.exe.config
+C:\Kişisel Dosyalar\C# Çalışmalar\Yeni klasör\Zikirmatik\Zikirmatik\obj\Debug\Zikirmatik.exe
+C:\Kişisel Dosyalar\C# Çalışmalar\Yeni klasör\Zikirmatik\Zikirmatik\obj\Debug\Zikirmatik.pdb
